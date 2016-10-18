@@ -194,9 +194,13 @@
       "firstname": "Antoine",
       "name": "Bonneau",
       "company": null,
-      "bio": "",
+      "bio": "Directeur de Zenika Nantes depuis 2015, Antoine est un ancien UX et développeur web. Il s'intéresse de près aux technos du WEB  et aux approches que sont le Design Think, le Lean StartUp et l'intelligence collective. Les nouvelles méthodes et organisations du travail et du management, notamment au sein des géants du web, font également parties de ses centres d'intérêts.",
       "photo": "abonneau.jpg",
       "social": {
+        "twitter": "@callmegoodwater",
+        "googleplus": null,
+        "github": null,
+        "blog" : "http://www.joketheband.com",
       },
       "sessions": [
         13
